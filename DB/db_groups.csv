@@ -1,0 +1,3 @@
+id,group,users
+0,GroupOne,['Admin']
+1,news,"['Admin', 'michael']"
